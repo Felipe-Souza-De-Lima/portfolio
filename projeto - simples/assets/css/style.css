@@ -961,13 +961,14 @@ section {
   
   
 }
-.peixe{
-  display: inline-block;
-  width: 940px;
-  margin: 0 0 30px 85px;
-  
-
+#peixe{
+  width: 400px;
+  margin: 0 0 50px 0;
+  border-radius: 10px;
 }
+
+
+
 
 
 
