@@ -961,11 +961,21 @@ section {
   
   
 }
-#peixe{
-  width: 400px;
-  margin: 0 0 50px 0;
+.peixe{
+  width: 940px;
+  margin-left: 7%;
+  margin-bottom: 40px;
   border-radius: 10px;
   
+}
+
+@media screen and (max-width:480px){
+  .peixe{
+    width: auto;
+    margin-left: 11%;
+   
+    
+  }
 }
 
 
