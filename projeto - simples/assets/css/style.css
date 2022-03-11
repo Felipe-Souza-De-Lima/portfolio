@@ -962,13 +962,30 @@ section {
   
 }
 .peixe{
-  width: 940px;
-  margin-left: 7%;
+  width: 900px;
+  margin-left: 26%;
   margin-bottom: 40px;
   border-radius: 10px;
   
 }
 
+@media screen and (max-width:480px){
+
+  .peixe{
+    width: auto;
+    margin: 0 0 30px 40px;
+  }
+
+}
+
+@media screen and (max-width:1199px){
+  .peixe{
+    width: auto;
+    
+
+  }
+
+}
 
 
 
